@@ -21,6 +21,44 @@ body::-webkit-scrollbar-thumb {
   outline: 2px solid #fff;
 }
 
+/* text colours */
+.dark-grey-text {
+  color: $dark-grey;
+}
+
+.light-grey-text {
+  color: $light-grey;
+}
+
+.yellow-text {
+  color: $theme-yellow;
+}
+
+.primary-color-text {
+  color: $primary-color;
+}
+
+.dark-blue-text {
+  color: $dark-blue;
+}
+
+.red-text {
+  color: $theme-red;
+}
+
+.blue-header-text {
+  color: $header-blue;
+}
+
+.test-text {
+  color: $test;
+}
+
+/* feature cards */
+.cards {
+  background-color: #F5F7FB;
+  color: $dark-blue;
+}
 
 /* preloader */
 
@@ -138,7 +176,7 @@ a:hover {
   }
 
   &::placeholder {
-    color: $text-color;
+    color: $dark-grey;
   }
 }
 
@@ -163,7 +201,7 @@ textarea.form-control {
     height: 25px;
     width: 25px;
     line-height: 25px;
-    background-color: $primary-color;
+    background-color: $theme-yellow;
     border-radius: 50%;
     font-size: 15px;
     text-align: center;

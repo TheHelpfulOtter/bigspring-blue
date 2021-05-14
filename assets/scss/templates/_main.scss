@@ -7,15 +7,16 @@
   border-radius: 10px;
   padding: 20px;
   transition: .2s ease;
-  background-color: $white;
+  background-color: $light-grey;
 
   &:hover {
     @extend .shadow;
   }
 
+  // Icon colours within the cards
   i {
     font-size: 30px;
-    color: $primary-color;
+    color: $theme-yellow;
     display: inline-block;
   }
 }

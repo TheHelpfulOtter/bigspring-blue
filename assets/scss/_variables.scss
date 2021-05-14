@@ -1,4 +1,46 @@
-// Color Variables
+// ====== Color Variables ======
+$primary-color: #556ae0;
+$secondary-color: #0f2f64;
+$body-color: #091E40 ;
+
+$light-blue: #2e9cca;
+$dark-blue: #10123A;
+$header-blue: #003669;
+$light-grey: #F5F7FB;
+$dark-grey: #323449;
+$theme-yellow: #f79e02;
+$theme-red: #f76c6c;
+$test: #003669;
+
+// Controls line at the bottom of the page
+$border-color: #f79e02;
+
+// This is the footer bg colour + alternating bands
+$light: #0f2f64;
+
+// Footer link text + button text + cards + tick marks
+$white: #fff;
+
+// This is the paragraph text + placeholder text + footer logo text
+$text-color: #fffde4;
+
+// Navbar text
+$text-color-dark: #fff;
+
+// No effect?
+$text-color-white: white;
+$text-color-black: black;
+$black: black;
+
+// ====== Font Variables ======
+
+$primary-font: 'Montserrat', sans-serif;
+$secondary-font: 'Open Sans', sans-serif;
+$font-hosting: 'google'; // From where to include Lato from: [google|local|none]
+$icon-font: 'themify';
+
+// Original colours
+/* // Color Variables
 $primary-color: #0AA8A7;
 $text-color: #777;
 $text-color-dark: #222;
@@ -11,4 +53,4 @@ $light: #EDF6F5;
 // Font Variables
 $primary-font: 'Lato', sans-serif;
 $font-hosting: 'google'; // From where to include Lato from: [google|local|none]
-$icon-font: 'themify';
+$icon-font: 'themify'; */
