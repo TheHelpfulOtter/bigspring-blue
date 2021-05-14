@@ -1,3 +1,4 @@
+# Blue Version of commit de8ed671e6aa757d64b6b5ebaaba0f017c8d3fa6
 # Easy Setup (Hugo + Netlify + Forestry)
 Build your website with bigspring theme by following this easy steps (No Coding Required)
 
